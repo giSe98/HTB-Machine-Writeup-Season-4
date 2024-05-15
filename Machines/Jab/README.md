@@ -10,7 +10,7 @@
 
 1. [Service Enumeration](#1-recon)
 2. [XMPP](#2-xmpp)
-3. [Privilege Escalation](#4-user-to-root)
+3. [Privilege Escalation](#3-user-to-root)
 4. [Pwned Info](#pwned-info)
 
 ## 1. Recon
