@@ -10,9 +10,8 @@
 
 1. [Service Enumeration](#1-recon)
 2. [XMPP](#2-xmpp)
-3. [CVE-2021-31630 - RCE](#3-cve-2021-31630---rce)
-4. [Privilege Escalation](#4-user-to-root)
-5. [Pwned Info](#pwned-info)
+3. [Privilege Escalation](#4-user-to-root)
+4. [Pwned Info](#pwned-info)
 
 ## 1. Recon
 
